@@ -16,8 +16,9 @@
   (building a portfolio of real-world vulnerability findings)
 
 - 🌐 Under construction:  
-  - <strong><a href="https://jw3b.dev">jw3b.dev</a></strong> — upcoming portfolio showcase  
-  - <strong><a href="https://agilegypsy.com">agilegypsy.com</a></strong> & <strong><a href="https://agilegypsy.brave">audit.brave</a></strong> — company & product sites
+  - <strong><a href="https://jw3b.dev">jw3b.dev</a></strong> — upcoming Blockchain Engineer / Dev / Security Researcher portfolio showcase
+  - <strong><a href="https://audit.agilegypsy.com">jw3b.dev</a></strong> — upcoming Smart Contract Audit portfolio showcase & Marketing
+  - <strong><a href="https://agilegypsy.com">agilegypsy.com</a></strong> & <strong><a href="https://audit.brave">audit.brave</a></strong> & <strong><a href="https://kthulhu.brave">audit.brave</a></strong>— upcoming company & product sites
 
 ---
 
