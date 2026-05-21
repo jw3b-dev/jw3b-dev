@@ -20,34 +20,7 @@
 
 ## 🛠️ Core Tech Stack
 
-### Languages & Frontend
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)]()  
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)]()  
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)]()  
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)]()  
-[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)]()  
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)]()  
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)]()
-
-### Web3 Architecture & Smart Contract Security
-[![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)]()  
-[![Foundry](https://img.shields.io/badge/Foundry-000000?style=flat-square&logo=foundry&logoColor=white)]()  
-[![Hardhat](https://img.shields.io/badge/Hardhat-F3C702?style=flat-square&logo=hardhat&logoColor=black)]()  
-[![Ethers.js](https://img.shields.io/badge/Ethers.js-5C6BC0?style=flat-square&logo=ethers-dot-js&logoColor=white)]()  
-[![Yul / Assembly](https://img.shields.io/badge/Assembly-Yul-blueviolet?style=flat-square)]()
-
-### DeFi Protocols, Infrastructure & Systems
-[![Uniswap](https://img.shields.io/badge/Uniswap-V2/V3-pink?style=flat-square&logo=uniswap)]()  
-[![Curve](https://img.shields.io/badge/Curve-DeFi-blue?style=flat-square&logo=curve)]()  
-[![Cloudflare](https://img.shields.io/badge/Cloudflare-Workers_/_DO_/_D1-F38020?style=flat-square&logo=cloudflare&logoColor=white)]()  
-[![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)]()  
-[![Google SDK](https://img.shields.io/badge/Google_SDK-0F9D58?style=flat-square&logo=google&logoColor=white)]()
-
-### Agentic AI Frameworks & Environment
-[![AI Agents](https://img.shields.io/badge/AI_Agents-Model_Context_Protocol-ff5c5c?style=flat-square&logo=openai&logoColor=white)]()  
-[![Google AI Tools](https://img.shields.io/badge/Google_Agent_Tools-4285F4?style=flat-square&logo=google&logoColor=white)]()  
-[![Ollama](https://img.shields.io/badge/Ollama-Local_LLMs-black?style=flat-square)]()  
-[![Linux](https://img.shields.io/badge/Linux-Terminal-FCC624?style=flat-square&logo=linux&logoColor=black)]()
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)]() [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)]() [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)]() [![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)]() [![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)]() [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)]() [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)]() [![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)]() [![Foundry](https://img.shields.io/badge/Foundry-000000?style=flat-square&logo=foundry&logoColor=white)]() [![Hardhat](https://img.shields.io/badge/Hardhat-F3C702?style=flat-square&logo=hardhat&logoColor=black)]() [![Ethers.js](https://img.shields.io/badge/Ethers.js-5C6BC0?style=flat-square&logo=ethers-dot-js&logoColor=white)]() [![Yul / Assembly](https://img.shields.io/badge/Assembly-Yul-blueviolet?style=flat-square)]() [![Uniswap](https://img.shields.io/badge/Uniswap-V2/V3-pink?style=flat-square&logo=uniswap)]() [![Curve](https://img.shields.io/badge/Curve-DeFi-blue?style=flat-square&logo=curve)]() [![Cloudflare](https://img.shields.io/badge/Cloudflare-Workers_/_DO_/_D1-F38020?style=flat-square&logo=cloudflare&logoColor=white)]() [![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)]() [![Google SDK](https://img.shields.io/badge/Google_SDK-0F9D58?style=flat-square&logo=google&logoColor=white)]() [![AI Agents](https://img.shields.io/badge/AI_Agents-Model_Context_Protocol-ff5c5c?style=flat-square&logo=openai&logoColor=white)]() [![Google AI Tools](https://img.shields.io/badge/Google_Agent_Tools-4285F4?style=flat-square&logo=google&logoColor=white)]() [![Ollama](https://img.shields.io/badge/Ollama-Local_LLMs-black?style=flat-square)]() [![Linux](https://img.shields.io/badge/Linux-Terminal-FCC624?style=flat-square&logo=linux&logoColor=black)]()
 
 ---
 
