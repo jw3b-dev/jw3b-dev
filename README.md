@@ -1,83 +1,83 @@
-<h1 align="center">Hi 👋, I'm John Wellard (Johno)</h1>
-<h3 align="center">AI, Agentic Solutions Architect / Engineer • Web 2-3 Full Stack Engineer • Blockchain Architect / Security Researcher</h3>
+<a href="https://jw3b.dev"><img src="jw3b-banner.svg" alt="~❯ JW3B._ — John Wellard, Senior Agentic AI Developer & Smart-Contract Auditor" width="100%"></a>
 
 <p align="center">
-  ⚡️ Specialized in AI agentic + Web2+3 + Cloud+Depin Infra + Cyber-security convergence <br>
-  Building the future of decentralized agentic automation | Security Researcher | Hacker
+  <a href="https://jw3b.dev"><b>jw3b.dev</b></a> · <a href="https://jw3b.dev/hire-me">./hire-me</a> · <a href="https://jw3b.dev/audit">./audit</a> · <a href="https://jw3b.dev/ctf">./ctf</a> · <a href="https://jw3b.dev/work">./work</a> · <a href="https://jw3b-dev.github.io/">profile site</a>
 </p>
 
----
+```text
+~❯ cat about.md
+John Wellard (Johno) · JW3B / AgileGypsy · UK
+Senior Agentic AI Developer & Smart-Contract Auditor · founder, AgileGypsy Labs
+```
 
-- 🚀 Founder & Solutions Architect @ **[AgileGypsy Labs](https://agilegypsy.com)** — AI, Agentic Solutions Architect / Engineer - Web 2-3 Full Stack Engineer, DeFi / DePIN / Protocols / Blockchain Architect / Engineer / Security Researcher / Hacker.
-- 💻 **Driving the Convergence:** Specialized in AI agentic systems, Web3 infrastructure, and cyber-security. Architecting high-frequency trading infrastructure, deterministic orchestration frameworks, and localized AI engines.
-- 🧠 **Active Labs & Core Architectures:**  
-  - **Nano-Bot-Trader:** A high-frequency crypto trading bot scaling a 15-Strategy MEV Matrix (DEX mempool arb to Spark USDS SSR Carry) across dual ephemeral GCP VMs and Cloudflare Durable Objects. Uses a *3-Tier AI Orchestration Model* air-gapped under the strict "Never Hold Keys" principle to mathematically eliminate prompt injection and execution risks.
-  - **Director OS:** A deterministic fly-by-wire orchestration cockpit for autonomous software engineering. Built on Cloudflare Durable Objects to manage an 845-task Directed Acyclic Graph (DAG) with an MCP Bridge (13 strictly typed tools), headless local PTY daemons, ElizaOS cross-session RAG, and an automated Git Archon worktree pattern.
-  - **Kointel:** The first edge-native crypto tax engine tailored specifically for South African SARS compliance and CARF enforcement. Built on Next.js 15, Cloudflare Workers/D1, and Gemini 2.5 Flash for automated "Capital vs. Revenue" trade classification, ZAR lot-matching (FIFO), and POPIA-compliant encryption.
-- 🔍 **Bug Hunter & Security Auditor** on **CodeHawks** & **Immunefi** focusing on protocol invariants and fuzzing.
+**A portfolio you can operate, not just read.** [jw3b.dev](https://jw3b.dev) hands you the controls: edit a contract in the hero console and watch the auditor re-run, paste Solidity for a heuristic screen plus an AI narrative, drain a live reentrancy vault on Base Sepolia and prove it on-chain, or talk to a concierge grounded in a verified evidence register, by text or hands-free voice transcribed on-device.
 
----
-
-## 🛠️ Core Tech Stack
-
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)]() [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)]() [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)]() [![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)]() [![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)]() [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)]() [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)]() [![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)]() [![Foundry](https://img.shields.io/badge/Foundry-000000?style=flat-square&logo=foundry&logoColor=white)]() [![Hardhat](https://img.shields.io/badge/Hardhat-F3C702?style=flat-square&logo=hardhat&logoColor=black)]() [![Ethers.js](https://img.shields.io/badge/Ethers.js-5C6BC0?style=flat-square&logo=ethers-dot-js&logoColor=white)]() [![Yul / Assembly](https://img.shields.io/badge/Assembly-Yul-blueviolet?style=flat-square)]() [![Uniswap](https://img.shields.io/badge/Uniswap-V2/V3-pink?style=flat-square&logo=uniswap)]() [![Curve](https://img.shields.io/badge/Curve-DeFi-blue?style=flat-square&logo=curve)]() [![Cloudflare](https://img.shields.io/badge/Cloudflare-Workers_/_DO_/_D1-F38020?style=flat-square&logo=cloudflare&logoColor=white)]() [![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)]() [![Google SDK](https://img.shields.io/badge/Google_SDK-0F9D58?style=flat-square&logo=google&logoColor=white)]() [![AI Agents](https://img.shields.io/badge/AI_Agents-Model_Context_Protocol-ff5c5c?style=flat-square&logo=openai&logoColor=white)]() [![Google AI Tools](https://img.shields.io/badge/Google_Agent_Tools-4285F4?style=flat-square&logo=google&logoColor=white)]() [![Ollama](https://img.shields.io/badge/Ollama-Local_LLMs-black?style=flat-square)]() [![Linux](https://img.shields.io/badge/Linux-Terminal-FCC624?style=flat-square&logo=linux&logoColor=black)]()
+- **Ships agentic AI end-to-end.** Multi-agent pipelines, graph retrieval, edge RAG, delivered as running products with paying users, not slideware.
+- **Audits smart contracts autonomously**, backed by a competitive audit record. The product is [KTHULHU](https://kthulhu.co).
+- **Delivers long-horizon work across borders.** Scope it, size it honestly, name the risks.
 
 ---
 
-## 🦅 Security & Audit Profile
+## 🦅 Audit Record
 
-<a href="https://codehawks.cyfrin.io">
-  <img src="https://img.shields.io/badge/CodeHawks-Auditor-blue?style=for-the-badge" alt="CodeHawks Rank Badge"/>
-</a>
+Every number on jw3b.dev routes through an evidence register with a source pointer; the build fails if unsourced copy appears. The citable record:
 
-### Cyfrin CodeHawks (First Flights)
-| 🧠 Metric               | 🔎 Value                                 |
-|------------------------|------------------------------------------|
-| **Rank**               | #144                                     |
-| **EXP**                | 854                                      |
-| **Valid Submissions**  | 17                                       |
-| **Total Earned**       | 1,430.80  EXP                            |
-| **Profile**            | [View on CodeHawks](https://codehawks.cyfrin.io) |
+| Platform | Placement | Findings | Points |
+|---|---|---|---|
+| [CodeHawks](https://codehawks.cyfrin.io) | **#124** | **17** findings, **8 High** | **1,430 EXP** |
+
+Sample findings: critical unauthorized withdrawal in `withdrawAllFailedCredits()`, reentrancy in `claimFaucetTokens`, deposit slips accepting investor funds without minting shares, battle-arena DoS via NFT token injection, pseudo-randomness in `go_on_stage_or_battle()`. No "TVL secured" figures, because they cannot be evidenced. Also hunting on Immunefi: protocol invariants and fuzzing.
 
 ---
 
-## 💼 Featured Repositories
+## 🧪 Labs
 
-| Project / Lab | Description |
-|--------|-------------|
-| **director-os-core** | The stateful orchestration engine managing the 845-task DAG, MCP bridge tolls, and real-time dashboard UI. |
-| **nano-bot-trader** | Core components of the high-frequency trading infrastructure, featuring local Anvil EVM simulation rigs. |
-| **kointel-tax-engine** | Lot-matching algorithm and Gemini trade classifier for SARS-optimized capital gains accounting. |
-| **solidity-audits** | Public smart contract audit reports, private vulnerability writeups, and invariant testing suites. |
-
----
-
-## 📚 Certifications & Education
-
-- ✅ **SSCD+ (Updraft Solidity Smart Contract Developer Certification)** 
-- ✅ **Smart Contract Security (Cyfrin)** 
-- ✅ **Advanced Foundry (Cyfrin)** 
-- ✅ **Advanced Web3 Wallet Security (Cyfrin)** 
-- 🧠 [Neo4j Certified Professional](https://graphacademy.neo4j.com/c/e235aec4-a1e6-4bab-ad1b-2777f199d60c/)
+| Lab | What it is |
+|---|---|
+| **KTHULHU** | AI-powered smart-contract security as a service, continuous protection with a competitive record behind it. [kthulhu.co](https://kthulhu.co) |
+| **Director OS** | Deterministic fly-by-wire orchestration for autonomous software engineering: an 845-task DAG on Cloudflare Durable Objects, an MCP bridge of 13 typed tools, headless PTY daemons, cross-session RAG, automated Git worktrees. |
+| **Nano-Bot-Trader** | High-frequency trading infrastructure scaling a 15-strategy MEV matrix across ephemeral GCP VMs and Durable Objects; three-tier AI orchestration, air-gapped under a strict "never hold keys" principle. |
+| **Kointel** | Edge-native crypto tax engine for South African SARS compliance and CARF: Next.js 15, Workers and D1, capital-vs-revenue classification, ZAR FIFO lot matching, POPIA-compliant encryption. |
 
 ---
 
-## 📢 Connect With Me
+## 💼 Repositories
 
-| Platform | Link |
-|----------|------|
+| Repository | What it is |
+|---|---|
+| [jw3b.dev_portfolio_website](https://github.com/jw3b-dev/jw3b.dev_portfolio_website) | The operable portfolio: React 19, Cloudflare Workers, Claude, Foundry. Built and gated by a multi-agent pipeline whose engineering record is in the repo. |
+| [solidity-audits](https://github.com/jw3b-dev/solidity-audits) | Audit reports, competitive findings, invariant testing suites. |
+| [development_agent](https://github.com/jw3b-dev/development_agent) | The Agentic Web3 Development Platform. |
+| [crosshair15-cooling](https://jw3b-dev.github.io/crosshair15-cooling/) | Cooling mod guide and Linux thermal tooling for an MSI Crosshair 15, researched and instrumented. |
+| [dualweb-dashboard](https://github.com/jw3b-dev/dualweb-dashboard) | Seamless navigation between Web2 and Web3 worlds. |
+| [cyfrin-updraft-track](https://github.com/jw3b-dev/cyfrin-updraft-track) | Structured progress through the Cyfrin Updraft curriculum. |
+
+---
+
+## 🛠️ Stack
+
+```text
+agents      Claude · multi-agent pipelines · graph retrieval · edge RAG · MCP · local LLMs (Ollama)
+web         TypeScript · React 19 · Next.js · Vite · Tailwind · Cloudflare Workers, Durable Objects, D1, KV, R2, Workers AI · GCP
+chain       Solidity · Yul · Foundry · Hardhat · ethers / viem / wagmi · Uniswap v2/v3 · Curve · Base · XMTP
+voice       Whisper on WebGPU → WASM → server, disclosed when it switches
+security    competitive audits · invariant fuzzing · deterministic heuristics · claims gating · secret scanning
+```
+
+## 📚 Certifications
+
+SSCD+ (Cyfrin Updraft Solidity Smart Contract Developer) · Smart Contract Security (Cyfrin) · Advanced Foundry (Cyfrin) · Advanced Web3 Wallet Security (Cyfrin) · [Neo4j Certified Professional](https://graphacademy.neo4j.com/c/e235aec4-a1e6-4bab-ad1b-2777f199d60c/)
+
+## 📢 Connect
+
+| Channel | Where |
+|---|---|
+| Hire | [jw3b.dev/hire-me](https://jw3b.dev/hire-me) |
 | LinkedIn | [linkedin.com/in/john-wellard](https://www.linkedin.com/in/john-wellard/) |
-| Portfolio | [jw3b.dev](https://jw3b.dev) |
 | Email | onchain@jw3b.dev |
-| Twitter/X | [@AgileGypsy_](https://twitter.com/AgileGypsy_) |
-| CodeHawks | [Profile](https://codehawks.cyfrin.io) |
-| Payments | [Airtm](https://airtm.me/agilegypsy_) • [UD.me Wallet](https://ud.me/jw3b.brave) |
+| X | [@AgileGypsy_](https://x.com/AgileGypsy_) |
+| Payments | [Airtm](https://airtm.me/agilegypsy_) · [UD.me wallet](https://ud.me/jw3b.brave) |
 
----
+<p align="center"><code>~❯ JW3B._</code> &nbsp; <code>// STAY WEIRD 👽</code></p>
 
-### 🤖 Web3 is evolving — and so am I.
-
-Pushing the convergence of AI agentic solutions, Web3, infrastructure, and cyber-security. Architecting decentralized trading engines and intelligent agents at the edge.  
-🔐 Auditing contracts, breaking things (ethically), and building secure solutions from the ground up.  
-🐧 Living in the terminal. Local LLMs, Next.js, and Google Cloud backends.  
-🧵 Follow the commits, fork the audits, and stay weird 👽.
+<sub>Brand assets (the JW3B. mark, prompt treatment, banner and tagline) © 2026 John Wellard, all rights reserved. See <a href="https://github.com/jw3b-dev/jw3b-dev.github.io/blob/main/brand/LICENSE-BRAND.md">LICENSE-BRAND</a>.</sub>
