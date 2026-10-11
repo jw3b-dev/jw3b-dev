@@ -22,9 +22,9 @@ Senior Agentic AI Developer & Smart-Contract Auditor · founder, AgileGypsy Labs
 
 Every number on jw3b.dev routes through an evidence register with a source pointer; the build fails if unsourced copy appears. The citable record:
 
-| Platform | Placement | Findings | Points |
-|---|---|---|---|
-| [CodeHawks](https://codehawks.cyfrin.io) | **#124** | **17** findings, **8 High** | **1,430 EXP** |
+| Platform | Findings | Points |
+|---|---|---|
+| [CodeHawks](https://codehawks.cyfrin.io) | **14** validated findings across **7** First Flights (**7 High**, **4 Medium**, **3 Low**) | **1,430 EXP** |
 
 Sample findings: critical unauthorized withdrawal in `withdrawAllFailedCredits()`, reentrancy in `claimFaucetTokens`, deposit slips accepting investor funds without minting shares, battle-arena DoS via NFT token injection, pseudo-randomness in `go_on_stage_or_battle()`. No "TVL secured" figures, because they cannot be evidenced. Also hunting on Immunefi: protocol invariants and fuzzing.
 
