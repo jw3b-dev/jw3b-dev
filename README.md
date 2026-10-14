@@ -37,7 +37,7 @@ Sample findings: critical unauthorized withdrawal in `withdrawAllFailedCredits()
 | **KTHULHU** | AI-powered smart-contract security as a service, continuous protection with a competitive record behind it. [kthulhu.co](https://kthulhu.co) |
 | **Director OS** | Deterministic fly-by-wire orchestration for autonomous software engineering: an 845-task DAG on Cloudflare Durable Objects, an MCP bridge of 13 typed tools, headless PTY daemons, cross-session RAG, automated Git worktrees. |
 | **Nano-Bot-Trader** | High-frequency trading infrastructure scaling a 15-strategy MEV matrix across ephemeral GCP VMs and Durable Objects; three-tier AI orchestration, air-gapped under a strict "never hold keys" principle. |
-| **Kointel** | Edge-native crypto tax engine for South African SARS compliance and CARF: Next.js 15, Workers and D1, capital-vs-revenue classification, ZAR FIFO lot matching, POPIA-compliant encryption. |
+| **Kointel** | Crypto tax for South Africa, live at [kointel.co.za](https://kointel.co.za): reads your exchange exports and prepares the crypto figures for your ITR12 (ZAR FIFO lot matching, the annual exclusion, figures by ITR12 section); you check and sign off every answer. Next.js 16 on Cloudflare Workers and D1, POPIA controls engineered in. A brand of AgileGypsy Labs. |
 
 ---
 
@@ -73,6 +73,7 @@ SSCD+ (Cyfrin Updraft Solidity Smart Contract Developer) · Smart Contract Secur
 | Channel | Where |
 |---|---|
 | Hire | [jw3b.dev/hire-me](https://jw3b.dev/hire-me) |
+| Studio | [agilegypsy.com](https://agilegypsy.com) |
 | LinkedIn | [linkedin.com/in/john-wellard](https://www.linkedin.com/in/john-wellard/) |
 | Email | onchain@jw3b.dev |
 | X | [@AgileGypsy_](https://x.com/AgileGypsy_) |
