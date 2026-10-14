@@ -1,4 +1,4 @@
-<a href="https://jw3b.dev"><img src="jw3b-banner.svg" alt="~❯ JW3B._ — John Wellard, Senior Agentic AI Developer & Smart-Contract Auditor" width="100%"></a>
+<a href="https://jw3b.dev"><img src="jw3b-banner.svg" alt="~❯ JW3B._ — John Wellard, Agentic AI Developer & Smart-Contract Auditor" width="100%"></a>
 
 <p align="center">
   <a href="https://jw3b.dev"><b>jw3b.dev</b></a> · <a href="https://jw3b.dev/hire-me">./hire-me</a> · <a href="https://jw3b.dev/audit">./audit</a> · <a href="https://jw3b.dev/ctf">./ctf</a> · <a href="https://jw3b.dev/work">./work</a> · <a href="https://jw3b-dev.github.io/">profile site</a>
@@ -7,7 +7,7 @@
 ```text
 ~❯ cat about.md
 John Wellard (Johno) · JW3B / AgileGypsy · UK
-Senior Agentic AI Developer & Smart-Contract Auditor · founder, AgileGypsy Labs
+Agentic AI Developer & Smart-Contract Auditor · founder, AgileGypsy Labs
 ```
 
 **A portfolio you can operate, not just read.** [jw3b.dev](https://jw3b.dev) hands you the controls: edit a contract in the hero console and watch the auditor re-run, paste Solidity for a heuristic screen plus an AI narrative, drain a live reentrancy vault on Base Sepolia and prove it on-chain, or talk to a concierge grounded in a verified evidence register, by text or hands-free voice transcribed on-device.
@@ -22,11 +22,11 @@ Senior Agentic AI Developer & Smart-Contract Auditor · founder, AgileGypsy Labs
 
 Every number on jw3b.dev routes through an evidence register with a source pointer; the build fails if unsourced copy appears. The citable record:
 
-| Platform | Findings | Points |
-|---|---|---|
-| [CodeHawks](https://codehawks.cyfrin.io) | **14** validated findings across **7** First Flights (**7 High**, **4 Medium**, **3 Low**) | **1,430 EXP** |
+| Platform | Findings |
+|---|---|
+| [CodeHawks](https://codehawks.cyfrin.io) | **14** validated findings across **7** First Flights (**7 High**, **4 Medium**, **3 Low**) |
 
-Sample findings: critical unauthorized withdrawal in `withdrawAllFailedCredits()`, reentrancy in `claimFaucetTokens`, deposit slips accepting investor funds without minting shares, battle-arena DoS via NFT token injection, pseudo-randomness in `go_on_stage_or_battle()`. No "TVL secured" figures, because they cannot be evidenced. Also hunting on Immunefi: protocol invariants and fuzzing.
+Sample findings: critical unauthorized withdrawal in `withdrawAllFailedCredits()`, reentrancy in `claimFaucetTokens`, deposit slips accepting investor funds without minting shares, battle-arena DoS via NFT token injection, pseudo-randomness in `go_on_stage_or_battle()`. No "TVL secured" figures, because they cannot be evidenced.
 
 ---
 
